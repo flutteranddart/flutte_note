@@ -96,7 +96,7 @@ Dart 2.2.0
 
 登录页、注册页、密码锁的绘制、日历事件的完善、收藏页、主题切换、天气和表情及图片的添加等。
 
-预览APK地址：https://github.com/jaychou2012/flutter_notes/raw/master/app-release.apk
+预览APK地址：https://github.com/flutteranddart/flutte_note/raw/master/app-release.apk
 
 ## 推荐课程：
 
