@@ -102,6 +102,3 @@ Dart 2.2.0
 
 预览APK地址：https://github.com/flutteranddart/flutte_note/raw/master/app-release.apk
 
-## 推荐课程：
-
-![推荐课程](https://raw.githubusercontent.com/jaychou2012/flutter_notes/master/screenshot/20190804222342.jpg)
